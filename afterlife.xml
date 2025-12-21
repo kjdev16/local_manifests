@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote  name="github" fetch="https://github.com/" />
-
     <!-- Device Tree -->
     <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="main" remote="github" />
 
