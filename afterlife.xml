@@ -20,4 +20,7 @@
 
     <project path="hardware/mediatek" name="yaap/hardware_mediatek" revision="sixteen" remote="github" />
 
+    <!-- Afterlife keys -->
+    <project path="vendor/afterlife-priv" name="RdW-afk/vendor_afterlife-priv" revision="bkl" remote="github" />
+
 </manifest>
