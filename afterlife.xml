@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- Device Tree -->
-    <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="main" remote="github" />
+    <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="sixteen-afterlife" remote="github" />
 
     <!-- Vendor blobs -->
     <project path="vendor/motorola/devonf" name="kjdev16/vendor_motorola_devonf" revision="sixteen" remote="github" />
