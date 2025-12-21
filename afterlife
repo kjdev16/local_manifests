@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote  name="github" fetch="https://github.com/" />
+
+    <!-- Device Tree -->
+    <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="main" remote="github" />
+
+    <!-- Vendor blobs -->
+    <project path="vendor/motorola/devonf" name="kjdev16/vendor_motorola_devonf" revision="sixteen" remote="github" />
+
+    <!-- Kernel -->
+    <project path="device/motorola/devonf-kernel" name="kjdev16/device_motorola_devonf-kernel" revision="sixteen" remote="github" />
+
+    <!-- Additional moto camera vendor -->
+    <project path="vendor/motorola/devonf-motcamera" name="kjdev16/vendor_motorola_devonf-motcamera" revision="sixteen" remote="github" />
+
+    <!-- MediaTek repos -->
+    <project path="device/mediatek/sepolicy_vndr" name="yaap/device_mediatek_sepolicy_vndr" revision="sixteen" remote="github" />
+
+    <project path="device/mediatek/sepolicy" name="LineageOS/android_device_mediatek_sepolicy" revision="lineage-17.1" remote="github" />
+
+    <project path="hardware/mediatek" name="yaap/hardware_mediatek" revision="sixteen" remote="github" />
+
+</manifest>
