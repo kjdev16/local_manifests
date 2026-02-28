@@ -3,7 +3,7 @@
     <remote name="github" fetch="https://github.com" />
 
     <!-- Device Tree -->
-    <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="sixteen-afterlife" remote="github" />
+    <project path="device/motorola/devonf" name="kjdev16/device_motorola_devonf" revision="16-test" remote="github" />
 
     <!-- Vendor blobs -->
     <project path="vendor/motorola/devonf" name="kjdev16/vendor_motorola_devonf" revision="sixteen" remote="github" />
