@@ -19,8 +19,4 @@
     <project path="device/mediatek/sepolicy" name="LineageOS/android_device_mediatek_sepolicy" revision="lineage-17.1" remote="github" />
 
     <project path="hardware/mediatek" name="yaap/hardware_mediatek" revision="sixteen" remote="github" />
-
-    <!-- Afterlife keys -->
-    <project path="vendor/afterlife-priv" name="kjdev16/vendor_afterlife-priv" revision="main" remote="github" />
-
 </manifest>
