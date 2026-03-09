@@ -19,5 +19,5 @@
 
     <project path="device/mediatek/sepolicy" name="LineageOS/android_device_mediatek_sepolicy" revision="lineage-17.1" remote="github" />
 
-    <project path="hardware/mediatek" name="yaap/hardware_mediatek" revision="sixteen" remote="github" />
+    <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-23.2" remote="github" />
 </manifest>
